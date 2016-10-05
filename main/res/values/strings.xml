@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_detail_label">Movie Details</string>
+
+    <!--API key-->
+    <string name="apikey_tmdb">6ddda4a2f32fc3256384fb4667a4793a</string>
+
+    <!-- Some strings used for example layout during design -->
+    <string name="example_original_title">Batman</string>
+    <string name="example_release_date">2015</string>
+    <string name="example_vote_average">8.2</string>
+    <string name="example_overview">The Bat returns. </string>
+
+    <!-- UI text -->
+    <!-- Headline for release date -->
+    <string name="heading_release_date">Release Date</string>
+    <!-- Headline for user vote average -->
+    <string name="heading_vote_average">Vote Average</string>
+    <!-- Runtime text -->
+    <string name="no_release_date_found">No release date found</string>
+    <string name="overview_no_summary">No summary was found</string>
+
+
+    <!--Internet error message-->
+    <string name="error">This application needs Internet connection to function.</string>
+
+    <!-- Lifetime and Bundle -->
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+
+    <!--Preference items-->
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULARITY_DESC</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_VOTE_AVERAGE_DESC</string>
+
+    <!-- Themoviedb sort strings for url -->
+    <!-- tmdb sort 'popularity.desc' -->
+    <string name="tmdb_sort_pop_desc">popularity.desc</string>
+    <string name="tmdb_sort_vote_avg_desc">vote_average.desc</string>
+
+</resources>
