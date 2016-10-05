@@ -4,7 +4,7 @@
     <string name="movie_detail_label">Movie Details</string>
 
     <!--API key-->
-    <string name="apikey_tmdb">6ddda4a2f32fc3256384fb4667a4793a</string>
+    <string name="apikey_tmdb">Enter your API key here</string>
 
     <!-- Some strings used for example layout during design -->
     <string name="example_original_title">Batman</string>
